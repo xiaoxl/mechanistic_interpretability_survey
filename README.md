@@ -37,3 +37,18 @@ For Objectives 2 and 3, we will extend these methods to analyze prompt-behavior 
 
 - Identifying how specific prompt templates consistently alter activation patterns in specific layers and attention heads [@Wei2022].
 - Testing whether injecting known "helpfulness" or "accuracy" representation directions can improve the reliability and factuality of model outputs in high-stakes crisis scenarios [@Turner2023;@Zou2023].
+
+
+### transformers
+
+- https://www.lesswrong.com/posts/CJsxd8ofLjGFxkmAP/explaining-the-transformer-circuits-framework-by-example
+- https://medium.com/@sjonany/transformers-doing-math-e544b8486ff2
+- https://towardsdatascience.com/transformers-and-attention-are-just-fancy-addition-machines/
+- https://colab.research.google.com/drive/1F6_1_cWXE5M7WocUcpQWp3v8z4b1jL20#scrollTo=QoMukpTOzU-5
+- 2402.02619
+- 2405.17399
+- 2310.13121
+- https://www.alignmentforum.org/posts/btasQF7wiCYPsr5qw/200-cop-in-mi-techniques-tooling-and-automation
+- https://www.alignmentforum.org/posts/o6ptPu7arZrqRCxyz/200-cop-in-mi-exploring-polysemanticity-and-superposition
+
+@Olah2020
